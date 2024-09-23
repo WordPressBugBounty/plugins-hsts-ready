@@ -1,0 +1,1 @@
+# plugins-hsts-ready
