@@ -3,7 +3,7 @@ Contributors: manu225
 Donate link: http://www.info-d-74.com
 Tags: hsts, https, security, seo, strict transport security
 Requires at least: 3.5
-Tested up to: 6.6
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.04
 License: GPLv2 or later
