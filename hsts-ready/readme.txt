@@ -3,9 +3,9 @@ Contributors: manu225
 Donate link: http://www.info-d-74.com
 Tags: hsts, https, security, seo, strict transport security
 Requires at least: 3.5
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 1.04
+Stable tag: 1.06
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Enable easily HSTS on your website.
 
 == Description ==
 
-Enable easily HSTS on your website.
+Enable easily HSTS on your website (compatible with multisite).
 And see my others Wordpress Pro plugin on [my shop](https://www.info-d-74.com/en/shop/)
 
 == Installation ==
